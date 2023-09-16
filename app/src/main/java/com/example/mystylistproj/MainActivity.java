@@ -18,6 +18,8 @@ import com.example.mystylistproj.databinding.ActivityMainBinding;
 import android.view.Menu;
 import android.view.MenuItem;
 
+//comment test
+
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration appBarConfiguration;
